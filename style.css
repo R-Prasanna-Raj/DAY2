@@ -1,0 +1,57 @@
+img{
+    width: 250px;
+    height: 250px;
+    justify-content: space-evenly;
+    border-style: double;
+    border-radius: 165px;
+}
+a{
+    opacity:0.5;
+}
+a:hover{
+    opacity: 1;
+}
+.mo{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+body{
+    background-image: url(./MAIN.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    
+    color:black;
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: gold;
+    display: inline-block;
+
+}
+
+.P{
+    font-size: 75px;
+    background-color:bisque;
+    display: inline-block;
+    text-align: center;
+}
+.g{
+    color: brown;
+    font-size: larger;
+    
+    
+}
+.h{
+    color:darkgoldenrod;
+    font-size: larger;
+}
+.r{
+    color:blue;
+    font-size: larger;
+}
+.s{
+    color:darkgreen;
+    font-size: larger;
+}
